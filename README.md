@@ -1,5 +1,5 @@
 # Blog Generator
-This program leaverages power of large language model to generate blog on the basis of the topic user selects.
+This program leverages power of large language model to generate blog on the basis of the topic user selects.
 The tech stack which was used was streamlit for frontend and langchain for backend
 
 # Pre-requisite
