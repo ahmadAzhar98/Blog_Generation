@@ -16,4 +16,4 @@ pip install -r requirements.txt
 
 # User interface
 
-<img width="113" alt="Screenshot 2025-01-05 at 1 13 15 AM" src="https://github.com/user-attachments/assets/b3aa4269-5572-4cb8-8262-f6b3e28c9eec" />
+<img width="1113" alt="Screenshot 2025-01-05 at 1 13 15 AM" src="https://github.com/user-attachments/assets/b3aa4269-5572-4cb8-8262-f6b3e28c9eec" />
